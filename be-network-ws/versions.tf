@@ -5,7 +5,7 @@ terraform {
     organization = "cie-hellocloud-org"
 
     workspaces {
-      name = "be-network-ws"
+      name = "vcs-be-network-ws-opa"
     }
   }
 
